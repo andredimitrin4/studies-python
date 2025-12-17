@@ -12,7 +12,7 @@ e em experimentos pessoais por hobby.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
+
 
 ---
 
